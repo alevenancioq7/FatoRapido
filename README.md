@@ -25,9 +25,24 @@ App Android desenvolvido em Java para visualização de fatos aleatórios utiliz
 
 ## 📸 Screenshots
 
-| ![Tela 1](tela1.jpg) | ![Tela 2](tela2.jpg) |
-|:---:|:---:|
-| ![Tela 3](tela3.jpg) | ![Tela 4](tela4.jpg) |
+<table>
+  <tr>
+    <td align="center">
+      <img src="tela1.jpg" alt="Tela 1" width="50"/>
+    </td>
+    <td align="center">
+      <img src="tela2.jpg" alt="Tela 2" width="50"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="tela3.jpg" alt="Tela 3" width="50"/>
+    </td>
+    <td align="center">
+      <img src="tela4.jpg" alt="Tela 4" width="50"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
