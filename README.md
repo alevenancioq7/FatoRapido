@@ -28,16 +28,16 @@ App Android desenvolvido em Java para visualização de fatos aleatórios utiliz
 <table>
   <tr>
     <td align="center">
-      <img src="tela1.jpg" alt="Tela 1" width="220"/>
+      <img src="tela1.jpg" alt="Tela 1" width="225"/>
     </td>
     <td align="center">
-      <img src="tela2.jpg" alt="Tela 2" width="220"/>
+      <img src="tela2.jpg" alt="Tela 2" width="225"/>
     </td>
     <td align="center">
-      <img src="tela3.jpg" alt="Tela 3" width="220"/>
+      <img src="tela3.jpg" alt="Tela 3" width="225"/>
     </td>
     <td align="center">
-      <img src="tela4.jpg" alt="Tela 4" width="220"/>
+      <img src="tela4.jpg" alt="Tela 4" width="225"/>
     </td>
   </tr>
 </table>
