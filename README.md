@@ -33,8 +33,6 @@ App Android desenvolvido em Java para visualização de fatos aleatórios utiliz
     <td align="center">
       <img src="tela2.jpg" alt="Tela 2" width="200"/>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="tela3.jpg" alt="Tela 3" width="200"/>
     </td>
