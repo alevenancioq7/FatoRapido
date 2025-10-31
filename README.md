@@ -26,8 +26,8 @@ App Android desenvolvido em Java para visualização de fatos aleatórios utiliz
 ## 📸 Screenshots
 
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/alevenancioq7/FatoRapido/master/tela1.png" width="50%"> | <img src="https://raw.githubusercontent.com/alevenancioq7/FatoRapido/master/tela2.png" width="50%"> |
-| <img src="https://raw.githubusercontent.com/alevenancioq7/FatoRapido/master/tela3.png" width="50%"> | <img src="https://raw.githubusercontent.com/alevenancioq7/FatoRapido/master/tela4.png" width="50%"> |
+| <img src="https://raw.githubusercontent.com/alevenancioq7/FatoRapido/master/tela1.png" width="30%"> | <img src="https://raw.githubusercontent.com/alevenancioq7/FatoRapido/master/tela2.png" width="30%"> |
+| <img src="https://raw.githubusercontent.com/alevenancioq7/FatoRapido/master/tela3.png" width="30%"> | <img src="https://raw.githubusercontent.com/alevenancioq7/FatoRapido/master/tela4.png" width="30%"> |
 
 ---
 
